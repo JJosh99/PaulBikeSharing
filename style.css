@@ -46,7 +46,7 @@ header nav ul li {float: left; margin-right: 16px;}
 li:hover{opacity: 50%}
 
 /* Home *************************************************/
-#home {background: url(img/img01.jpg); background-position: center center; background-size: cover;}
+#home {background: url(img/2.05.22.jpg); background-position: center center; background-size: cover;}
 #home h2 {padding-top: 33%; color: azure;}
 #home h1 {color: azure;}
 #home img {width: 32px; opacity: 0.7;}
